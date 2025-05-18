@@ -1,0 +1,5 @@
+com/neuralnetwork/Neuron.class
+com/neuralnetwork/Layer.class
+com/neuralnetwork/utils/TrainingMetrics.class
+com/neuralnetwork/NeuralNetwork.class
+com/neuralnetwork/Main.class
