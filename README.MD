@@ -27,8 +27,8 @@ This project demonstrates a simple feedforward neural network implemented in pur
 1. **Clone the repository** (or copy the project files):
 
     ```sh
-    git clone <your-repo-url>
-    cd <your-project-directory>
+    git clone https://github.com/thukabjj/neuralnetwork.git
+    cd xor
     ```
 
 2. **Install dependencies**
